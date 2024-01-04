@@ -30,7 +30,7 @@ body {
   flex: 0.8;
   margin: 10px;
   position: relative;
-  -webkit-transition: all 900ms ease-in;
+  /* -webkit-transition: all 900ms ease-in; */
 }
 
 .panel h3 {
