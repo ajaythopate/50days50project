@@ -5,12 +5,12 @@
 }
 
 body {
-  background-image: linear-gradient(90deg, #7d5fff, #7158e2);
+  background-image: linear-gradient(90deg, #413e52, #cfcbdf);
   font-family: 'Roboto', sans-serif;
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 90vh;
   overflow: hidden;
   margin: 0;
 }
@@ -20,11 +20,13 @@ body {
   height: 50px;
 }
 
+
 .search .input {
-  background-color: #fff;
+  background-color: rgb(196, 85, 85);
   border: 0;
   font-size: 18px;
   padding: 15px;
+  border-radius: 5%;
   height: 50px;
   width: 50px;
   transition: width 0.3s ease;
